@@ -28,6 +28,8 @@ Developed by:SRINIVASN V
 Registeration Number :212222043008
 */
 ```
+
+```
 ## ACTIVITY MAIN-XML:
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -74,6 +76,9 @@ Registeration Number :212222043008
         app:layout_constraintVertical_bias="0.757" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
+
+```
 
 ## MAIN ACTIVITY-JAVA:
 package com.example.gui_components;
@@ -125,7 +130,7 @@ public class MainActivity extends AppCompatActivity {
 
 }
 }
-
+```
 ## OUTPUT
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b68739d0-f8db-441b-ab41-c41d7d0e8ae6" />
 
